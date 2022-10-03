@@ -6,7 +6,8 @@
 - Analyzing time series data to forecast crude oil prices
 
 ## Data Sources:
-1. OPEC crude oil price
+1. [OPEC crude oil price](https://data.nasdaq.com/data/OPEC-organization-of-the-petroleum-exporting-countries)
+
 The time series data is publicly available on https://data.nasdaq.com/
 
 ## Limitations:
