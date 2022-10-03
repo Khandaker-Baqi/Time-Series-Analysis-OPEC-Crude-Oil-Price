@@ -18,10 +18,10 @@ There are gaps in the time series data as weekend data is not present.
 - Data wrangling and data cleaning
 - Deriving new variables
 - Time series analysis
--- Smoothing time series data
--- Decomposing the time series data
--- Dickey Fuller stationarity test
--- Differencing to reduce autocorrelation
+  - Smoothing time series data
+  - Decomposing the time series data
+  - Dickey Fuller stationarity test
+  - Differencing to reduce autocorrelation
 
 ## Findings:
 As there is too much autocorrelation in the time series data, the price of crude oil can not be forecasted with reliability.
