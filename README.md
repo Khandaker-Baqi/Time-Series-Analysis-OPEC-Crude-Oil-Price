@@ -26,7 +26,7 @@ There are gaps in the time series data as weekend data is not present.
 ## Findings:
 As there is too much autocorrelation in the time series data, the price of crude oil can not be forecasted with reliability.
 
-## Next steps:
+## Next Steps:
 We can try to forecast the price of crude oil prices by repeating the same analysis on the data from only the recent years to see if there is a different result.
 
 
