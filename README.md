@@ -13,7 +13,7 @@ The time series data is publicly available on https://data.nasdaq.com/
 There are gaps in the time series data as weekend data is not present.
 
 ## Tools/Skills/Procedures
-**Python**
+### Python
 - Using APIs to collect data
 - Data wrangling and data cleaning
 - Deriving new variables
